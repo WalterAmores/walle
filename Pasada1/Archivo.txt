@@ -1,0 +1,24 @@
+Que hay
+de nuevo
+carga macro #1,#2
+hola que ase
+nombr macro #b1,#b2
+ld #b1,#b2
+resta macro #z1#z2
+ld #z1,#z2
+mend
+mend
+mend
+soy un robot
+tu tambien
+multi macro #a1,#a7
+yo hago esto
+y esto
+y est
+mend
+suma macro #t4,#t5
+abcd
+cp #t4
+mend
+end
+XD XD XD
